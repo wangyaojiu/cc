@@ -5,5 +5,5 @@ Linux下的CC一键脚本，基于黄金眼制作
 
 # 如何使用
 ```
-wget -N --no-check-certificate "https://raw.githubusercontent.com/linux-terminal/cc/master/cc.sh" && bash cc.sh
+wget -N --no-check-certificate "https://raw.githubusercontent.com/wangyaojiu/cc/master/cc.sh" && bash cc.sh
 ```
